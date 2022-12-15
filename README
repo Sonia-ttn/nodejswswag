@@ -1,1 +1,2 @@
 This is a simple nodejs project with the implementation of swagger.
+Use this to get the swagger UI (http://localhost:5000/api-docs)
