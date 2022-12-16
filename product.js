@@ -1,4 +1,4 @@
-const { default: mongoose } = require("mongoose")
+const  mongoose  = require("mongoose")
 
 require("./config")
 const schema=new mongoose.Schema({
